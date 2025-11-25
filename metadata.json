@@ -1,0 +1,5 @@
+{
+  "name": "MechFlow 智能排产",
+  "description": "智能制造执行规划器。上传机械图纸（PDF），利用AI分析加工工艺，根据车间产能和项目截止日期自动生成优化的生产计划。",
+  "requestFramePermissions": []
+}
